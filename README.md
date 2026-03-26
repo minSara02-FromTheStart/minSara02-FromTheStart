@@ -1,10 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on Python projects for data analysis, and statistical modeling
-🤝 I’m looking to collaborate on open-source data science projects and Python libraries
-🆘 I’m looking for help with  machine learning concepts 
-🌱 I’m targeting to learn SQL optimization, AI/ML algorithms, and data engineering
-💬 Ask me about Python, statistics, data visualization, and practical data science applications
-⚡ Fun fact: I enjoy turning real-world datasets into meaningful insights and dashboards
+🔭 I’m currently working on Python projects for data analysis, and statistical modeling<br>
+🤝 I’m looking to collaborate on open-source data science projects and Python libraries<br>
+🆘 I’m looking for help with  machine learning concepts<br>
+🌱 I’m targeting to learn SQL optimization, AI/ML algorithms, and data engineering<br>
+💬 Ask me about Python, statistics, data visualization, and practical data science applications<br>
+⚡ Fun fact: I enjoy turning real-world datasets into meaningful insights and dashboards<br>
 
 
 # 💻 Tech Stack:
