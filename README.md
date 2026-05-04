@@ -1,8 +1,9 @@
-# 💫 About Me:<br>🔭
-I’m currently working on html, CSS, Machine Learning, Python projects for data analysis, and statistical modeling<br><br>🤝 I’m looking to collaborate on open-source data science projects and Python libraries<br><br>🆘
-I’m looking for help with  machine learning concepts<br><br>🌱
-I’m targeting to learn SQL optimization, AI/ML algorithms, and data engineering<br><br>💬 Ask me about Python, statistics, data visualization, and practical data science applications<br><br>⚡
-Fun fact: I enjoy turning real-world datasets into meaningful insights and dashboards<br> </small>
+# 💫 About Me:<br>
+🔭I’m currently working on html, CSS, Machine Learning, Python projects for data analysis, and statistical modeling<br><br>🤝 I’m looking to collaborate on open-source data science projects and Python libraries<br><br>
+🆘I’m looking for help with  machine learning concepts<br><br>
+🌱I’m targeting to learn SQL optimization, AI/ML algorithms, and data engineering<br><br>
+💬Ask me about Python, statistics, data visualization, and practical data science applications<br><br>
+⚡Fun fact: I enjoy turning real-world datasets into meaningful insights and dashboards<br> 
 
 
 ## 🌐 Socials:
@@ -15,10 +16,3 @@ Fun fact: I enjoy turning real-world datasets into meaningful insights and dashb
 ![](https://streak-stats.demolab.com/?user=minSara02-FromTheStart&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=minSara02-FromTheStart&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=minSara02-FromTheStart&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=minSara02-FromTheStart&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
